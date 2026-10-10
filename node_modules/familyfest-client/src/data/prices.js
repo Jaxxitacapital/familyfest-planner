@@ -1,0 +1,22 @@
+export const seedPrices = [
+  { id:"oil", name:"Cooking oil", unit:"2 L", price:280, category:"Cooking", source:"Local entry", updated:"2026-10-07" },
+  { id:"salt", name:"Salt", unit:"pack", price:25, category:"Cooking", source:"Local entry", updated:"2026-10-07" },
+  { id:"groceries", name:"General groceries", unit:"allowance", price:300, category:"Other", source:"Event allocation", updated:"2026-10-07" },
+  { id:"banana", name:"Green bananas", unit:"3 bananas", price:20, category:"Staple", source:"Local entry", updated:"2026-10-07" },
+  { id:"milk", name:"Milk", unit:"1 litre", price:70, category:"Dairy", source:"Local entry", updated:"2026-10-07" },
+  { id:"starter", name:"Yoghurt starter", unit:"500 ml", price:130, category:"Dairy", source:"Local entry", updated:"2026-10-07" },
+  { id:"wheat", name:"Wheat flour", unit:"0.5 kg", price:50, category:"Staple", source:"Bonus/local entry", updated:"2026-10-07" },
+  { id:"charcoal", name:"Charcoal", unit:"bag", price:90, category:"Fuel", source:"Local entry", updated:"2026-10-07" },
+  { id:"beef", name:"Beef", unit:"1 kg", price:800, category:"Protein", source:"Local entry", updated:"2026-10-07" },
+  { id:"chicken", name:"Chicken", unit:"1 chicken", price:600, category:"Protein", source:"Local entry", updated:"2026-10-07" },
+  { id:"onion", name:"Onions", unit:"1 kg", price:120, category:"Vegetable", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"tomato", name:"Tomatoes", unit:"1 kg", price:120, category:"Vegetable", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"ginger", name:"Garlic & ginger", unit:"portion", price:60, category:"Spice", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"spice", name:"Mixed spices", unit:"portion", price:70, category:"Spice", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"dhania", name:"Dhania", unit:"bunch", price:30, category:"Vegetable", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"pepper", name:"Green pepper", unit:"portion", price:40, category:"Vegetable", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"lemon", name:"Lemon", unit:"piece", price:25, category:"Fruit", source:"Suggested local estimate", updated:"2026-10-07" },
+  { id:"rice", name:"Rice", unit:"1 kg", price:180, category:"Staple", source:"Starter estimate", updated:"2026-10-07" },
+  { id:"beans", name:"Beans", unit:"1 kg", price:220, category:"Protein", source:"Starter estimate", updated:"2026-10-07" },
+  { id:"sukuma", name:"Sukuma wiki", unit:"bunch", price:20, category:"Vegetable", source:"Starter estimate", updated:"2026-10-07" }
+];
